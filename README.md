@@ -1,4 +1,4 @@
 # First-demo
 This is my first Git Repository.
 <br>
-Author- Pooja Rathore(git)
+Author- Pooja Rathore(git hub)
